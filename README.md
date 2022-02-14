@@ -1,4 +1,5 @@
-Welcome to Final Project Review repo for aug2021 class!
+**Welcome to Final Project Review repo for aug2021 class!**
+
 If you would like to receive code review from Technigo team, you need to create pull request to this repository.
 
 Since your own repositories where you keep final projects were not forked from this repo, you will need to follow couple of steps :
