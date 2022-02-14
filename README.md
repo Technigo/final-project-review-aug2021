@@ -2,7 +2,7 @@
 
 If you would like to receive code review from Technigo team, you need to create pull request to this repository.
 
-Since your own repositories where you keep final projects were not forked from this repo, you will need to follow couple of steps :
+Since your own repositories - those ones where you keep your final projects - were not forked from this repo, you will need to follow couple of steps to make pull request possible :
 
 1. Make a fork of this repository
 2. Clone your forked repo to local machine
