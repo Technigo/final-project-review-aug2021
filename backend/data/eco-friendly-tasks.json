@@ -1,0 +1,92 @@
+[
+	{
+		"title": "Wash in low degrees",
+		"description": "Wash at 30 or 40 degrees instead of 60 degrees, as often as possible. This almost halves the energy use.",
+		"category": "Household",
+		"score": 2,
+		"source": "https://www.wwf.se/klimat/det-har-kan-du-gora/",
+		"createdAt": "2022-01-24",
+		"updatedAt": "2022-02-04"
+	},
+	{
+		"title": "Travel by bike",
+		"description": "Bike everywhere! According to the Swedish Environmental Protection Agency, transportation accounts for a third of Sweden's greenhouse gas emissions.",
+		"category": "Travel and transport",
+		"score": 3,
+		"source": "https://www.wwf.se/klimat/det-har-kan-du-gora/",
+		"createdAt": "2022-01-24",
+		"updatedAt": "2022-02-04"
+	},
+	{
+		"title": "Travel by public transport",
+		"description": "Go by public transport. According to the Swedish Environmental Protection Agency, transportation accounts for a third of Sweden's greenhouse gas emissions.",
+		"category": "Travel and transport",
+		"score": 2,
+		"source": "https://www.wwf.se/klimat/det-har-kan-du-gora/",
+		"createdAt": "2022-01-24",
+		"updatedAt": "2022-02-04"
+	},
+	{
+		"title": "Eat vegetarian",
+		"description": "Eat only vegetarian food for a whole day. According to the Swedish Board of Agriculture, animal products, such as meat, milk and cheese, account for a fifth of global greenhouse gas emissions.",
+		"category": "Food and beverages",
+		"score": 2,
+		"source": "https://www.wwf.se/klimat/det-har-kan-du-gora/",
+		"createdAt": "2022-01-24",
+		"updatedAt": "2022-02-04"
+	},
+	{
+		"title": "By secondhand",
+		"description": "Do you need to buy something? Buy secondhand! Our consumption of new gadgets accounts for a significant proportion of our greenhouse gas emissions through the industries that manufacture them.",
+		"category": "Consumption",
+		"score": 3,
+		"source": "https://www.wwf.se/klimat/det-har-kan-du-gora/",
+		"createdAt": "2022-01-24",
+		"updatedAt": "2022-02-04"
+	},
+	{
+		"title": "Rent it",
+		"description": "Instead of buying a gadget, rent it! Our consumption of new gadgets accounts for a significant proportion of our greenhouse gas emissions through the industries that manufacture them.",
+		"category": "Consumption",
+		"score": 4,
+		"source": "https://www.wwf.se/klimat/det-har-kan-du-gora/",
+		"createdAt": "2022-01-24",
+		"updatedAt": "2022-02-04"
+	},
+	{
+		"title": "Pull the plug(s)",
+		"description": "Taken together, the outlets in your home are likely powering about 65 different devices. Don't leave fully charged devices plugged into your home's outlets, unplug rarely used devices or plug them into power strips and timers, and adjust your computers and monitors to automatically power down to the lowest power mode when not in use.",
+		"category": "Household",
+		"score": 3,
+		"source": "https://www.nrdc.org/stories/how-you-can-stop-global-warming",
+		"createdAt": "2022-02-04",
+		"updatedAt": "2022-02-04"
+	},
+	{
+		"title": "Switch to LED-lights",
+		"description": "Switch your lights to LED! LED-lights use less energy and have an overall lower carbon footprint, and have lower light-pollution. They are also safer since they usually dont contain any glass.",
+		"category": "Household",
+		"score": 4,
+		"source": "https://www.environment.co.za/eco-green-living/10-reasons-led-lights-good-environment.html",
+		"createdAt": "2022-02-07",
+		"updatedAt": "2022-02-07"
+	},
+	{
+		"title": "Use Eco labeled cleaning supplies",
+		"description": "Regular products usually contains harmful chemicals while cleaning with eco-friendly products does not cause any harm to the environment.",
+		"category": "Household",
+		"score": 2,
+		"source": "https://www.svanen.se/en/",
+		"createdAt": "2022-02-07",
+		"updatedAt": "2022-02-07"
+	},
+	{
+		"title": "Eat organic/locally produced food",
+		"description": "Consuming organic/locally produced food is better both for the climate and biodiversity. By eating locally produced, the carbon footprint is reduced.",
+		"category": "Food and beverages",
+		"score": 3,
+		"source": "https://www.onegreenplanet.org/natural-health/why-local-organic-food-is-the-best-choice-for-everyone/",
+		"createdAt": "2022-02-07",
+		"updatedAt": "2022-02-07"
+	}
+]
