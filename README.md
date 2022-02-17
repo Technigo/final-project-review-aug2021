@@ -1,11 +1,36 @@
-**Welcome to Final Project Review repo for aug2021 class!**
+# Final Project - Givers Game
 
-If you would like to receive code review from Technigo team, you need to create pull request to this repository.
+Sprint six, it's time for our final projects. We're going to build one bigger application during these next four weeks (approx 20 hours/week).
 
-Since your own repositories - those ones where you keep your final projects - were not forked from this repo, you will need to follow couple of steps to make pull request possible :
+# The Technical Requirements are:
 
-1. Make a fork of this repository
-2. Clone that forked repo to your local machine
-3. On your local machine, directly copy and paste WHOLE content of your final project, so it contains all of the files (**remember to exclude node_modules and .env files!**)
-4. Add, commit and push your changes to forked repo
-5. Submit pull request
+Frontend in React (Redux optional)
+Backend in Node.js
+MongoDB database
+Navigation using React Router
+Should work in Chrome, Firefox & Safari
+Be responsive and work well on mobile, tablet and phone
+
+The application is called Givers Game and .
+
+# The problem
+
+Tech stack we've used are:
+
+BE: node.js, Express, Mongoose, MongoDB, Heroku, Postman
+FE: React, React Router, React Redux, Redux Toolkit, Chakra UI, Netlify
+
+We decided to take on a new challenges and played a bit with Chakra UI. It was also a challenge to connect all our mongoose models to each other and to use them correct in the redux store.
+
+# Example for improvement:
+
+- We want to filter tasks in the groups to show your own tasks, others tasks and untaken tasks.
+- Create admins for the groups.
+- Create task templates to choose from.
+- Check tasks when completed.
+- Deadlines & calender.
+
+# View it live
+
+FE (Netlify): https://giversgame.netlify.app/
+BE/API (Heroku): https://kriss-patrik-final-project.herokuapp.com/
