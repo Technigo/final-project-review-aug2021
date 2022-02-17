@@ -1,11 +1,22 @@
-**Welcome to Final Project Review repo for aug2021 class!**
+### Project-Final
 
-If you would like to receive code review from Technigo team, you need to create pull request to this repository.
+Project by Daniel Vestin & Pinar Demirel making a webshop for buying & selling Vinyls built with MERN stack.
 
-Since your own repositories - those ones where you keep your final projects - were not forked from this repo, you will need to follow couple of steps to make pull request possible :
+### Technical Requirements
 
-1. Make a fork of this repository
-2. Clone that forked repo to your local machine
-3. On your local machine, directly copy and paste WHOLE content of your final project, so it contains all of the files (**remember to exclude node_modules and .env files!**)
-4. Add, commit and push your changes to forked repo
-5. Submit pull request
+- Frontend in React (Redux optional)
+- Backend in Node.js
+- MongoDB database
+- Navigation using React Router
+- Should work in Chrome, Firefox & Safari
+- Be responsive and work well on mobile, tablet and phone
+
+### Tech used
+
+• Backend: Node.js, Express, Mongoose, MongoDB, Heroku, Cloudinary
+• Frontend: React, React Router, React Redux, Redux Toolkit, Netlify
+
+### Live
+
+Frontend: https://vinylcakes.netlify.app/
+Backend: https://vinylshop-api.herokuapp.com/
