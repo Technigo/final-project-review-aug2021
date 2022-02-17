@@ -1,0 +1,12 @@
+{
+  "name": "project-auth-parent",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "npm install --prefix backend"
+  },
+  "dependencies": {
+    "mapbox-gl": "^2.7.0",
+    "moment": "^2.29.1",
+    "uniqid": "^5.4.0"
+  }
+}
