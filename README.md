@@ -1,11 +1,49 @@
-**Welcome to Final Project Review repo for aug2021 class!**
+# Todo and habit tracker
 
-If you would like to receive code review from Technigo team, you need to create pull request to this repository.
+This Todo and Habit tracker application is a student project developed by Aleksa Safranko & Jessi Nygren Walhed as final project during Technigos 24 weeks Frontend Bootcamp.
+Our idea was to create a Todo and Habit tracker where several features like local time, weather and motivational thoughts are all combined in a dashboard view.
 
-Since your own repositories - those ones where you keep your final projects - were not forked from this repo, you will need to follow couple of steps to make pull request possible :
+## How we built it and what we learned 👩‍💻
 
-1. Make a fork of this repository
-2. Clone that forked repo to your local machine
-3. On your local machine, directly copy and paste WHOLE content of your final project, so it contains all of the files (**remember to exclude node_modules and .env files!**)
-4. Add, commit and push your changes to forked repo
-5. Submit pull request
+### Frontend
+
+This is a multi-page React application built using React router and Redux as state manager. We started building the backend with signup and signin logic that takes a user directly to the Dashboard. The Dashboard is a restricted area where we have implemented authentication and only the specific registred user can have access to their content.
+
+A user can post, edit, delete and complete created todos and habits fetched from the database. In the Habit tracker section we have also implemented a progress bar for each specific habit. A user injects duration and regularity data in the post and that data is stored in Redux store to be used for calculating the progress in the Habit tracker component.
+
+Additonal feature is Dark mode made with Styled components and CSS variables.
+
+### Backend
+
+We have also developed the Backend for this application which consists of a RESTful API built with Node.js and Express and with data collected via MongoDB and mongoose.
+
+
+## Additional Packages used
+
+- Moment.js
+- Sweetalert
+- React icons
+- Styled components
+
+
+## Setup
+
+👉🏽 To run this project:
+- Download it locally.
+- Change URL in server.js (backend folder) and in constants.js (frontend folder) to localhost. 
+- Npm install both in Backend and Frontend folders. 
+- Run Backend with npm run dev.
+- Run Frontend with npm start.
+- Now you are all set! 
+
+
+## View it live
+
+- ✨ Frontend:https://habit-tracker-jessi-aleksa.netlify.app/
+- 🔥 Backend :https://aleksa-jessi-final-project.herokuapp.com/
+
+
+## Find us here 👯‍♀️
+
+- <a href="https://a1eksa-portfoliotechnigo.netlify.app/">⭐️ Aleksa Safranko </a> 
+- <a href="https://github.com/hemmahosjessi">⭐️ Jessi Nygren Walhed</a>
