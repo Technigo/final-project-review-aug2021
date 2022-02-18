@@ -2,7 +2,7 @@
 
 # Final Project: FOAJÉ
 
-# by: Elin Elmvik Diczfalusy
+### by: Elin Elmvik Diczfalusy
 
 Requirments:
 
