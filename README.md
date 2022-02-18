@@ -1,11 +1,16 @@
-**Welcome to Final Project Review repo for aug2021 class!**
+# Technigo Final Project | Molbimien Recipes 👩🏼‍🍳
 
-If you would like to receive code review from Technigo team, you need to create pull request to this repository.
+My final Technigo bootcamp project to wrap up everything I have learnt during the program.
 
-Since your own repositories - those ones where you keep your final projects - were not forked from this repo, you will need to follow couple of steps to make pull request possible :
+## Description
 
-1. Make a fork of this repository
-2. Clone that forked repo to your local machine
-3. On your local machine, directly copy and paste WHOLE content of your final project, so it contains all of the files (**remember to exclude node_modules and .env files!**)
-4. Add, commit and push your changes to forked repo
-5. Submit pull request
+A Recipe Keeper application to add, store and maintain my favorite recipes.
+
+This app contains an API built with Heroku and Express where the data is stored with MongoDB.
+The frontend is built with React and the styling is created with styled-components and MUI Library.
+
+## View it live
+
+https://molbimiens-skafferi-api.herokuapp.com/ 
+
+https://molbimiens-skafferi.netlify.app/
