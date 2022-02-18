@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Roboto:wght@300;700&family=Poppins&family=Spectral:wght@300;400&display=swap');
+
+:root {
+  --attribute: #333;
+  --orange: #ffad60;
+  --links: #96ceb4;
+  --focus: #d9534f;
+  --background: #fdf4dc;
+  --yellow: #ffeead;
+  --white: #ffff;
+  --blue: #9dcbfd;
+  --green: #87b9a2;
+  --button: #d5e5c6;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fdf4dc;
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.8;
+  cursor: not-allowed;
+}
+
+h1,
+h2 {
+  /* font-family: 'Poppins', sans-serif; */
+  margin: 1%;
+  font-weight: 600;
+}
+
+p,
+h3,
+label {
+  /* font-family: 'Poppins', sans-serif; */
+  font-weight: 300;
+}
+
+img {
+  width: 90px;
+  height: 90px;
+  margin: 5px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 8px 0px rgb(0 0 0 / 50%);
+}

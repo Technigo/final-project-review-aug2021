@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "på ett moln",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313331/storyimg/mv6plfeyrudwhbzpr7r9.jpg"
+  },
+  {
+    "id": 2,
+    "name": "i en lyftkran",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313350/storyimg/xchyc7ktlabmvd9erk3q.jpg"
+  },
+  {
+    "id": 3,
+    "name": "i en helikopter",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313372/storyimg/abpetychanroxnumolyg.jpg"
+  },
+  {
+    "id": 4,
+    "name": "högst upp i en tornado",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313395/storyimg/wwzdfgjsilp6u6fpiika.jpg"
+  }
+]

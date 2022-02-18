@@ -1,11 +1,33 @@
-**Welcome to Final Project Review repo for aug2021 class!**
+# Sagomaskinen
 
-If you would like to receive code review from Technigo team, you need to create pull request to this repository.
+---
 
-Since your own repositories - those ones where you keep your final projects - were not forked from this repo, you will need to follow couple of steps to make pull request possible :
+This is the final project of the Technigo Bootcamp in Front End Development.
 
-1. Make a fork of this repository
-2. Clone that forked repo to your local machine
-3. On your local machine, directly copy and paste WHOLE content of your final project, so it contains all of the files (**remember to exclude node_modules and .env files!**)
-4. Add, commit and push your changes to forked repo
-5. Submit pull request
+## Project members
+
+---
+
+Maria Petersson [GitHub profile](https://github.com/hejmaria)
+Ida Aspen [GitHub profile](https://github.com/IdaAspen)
+
+## Technical stack
+
+---
+
+- React
+- Redux
+- JavaScript
+- RESTful API
+- Express
+- MongoDB
+- Node.js
+- Postman
+
+### Other tools used
+
+- Figma
+- Trello
+
+Link to the live backend: `https://sagomaskinen.herokuapp.com/`
+Link to the live frontend: `sagomaskinen.netlify.app`

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 2,
+    "name": "en stege",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1643837390/storyimg/cwvnltz3w1vzh655pqkj.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ett kylskåp",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562656/storyimg/pdajsmunfqd71vqjl7c8.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ett par vingar",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1643837215/storyimg/lhkg1a8gfztksombb7qd.jpg"
+  },
+  {
+    "id": 5,
+    "name": "ett förstoringsglas",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562697/storyimg/uk9hgneqhk519jk2wyhk.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ett par skridskor",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1643837296/storyimg/i6fgw6nb7fkrqwmqerlj.jpg"
+  }
+]
