@@ -1,0 +1,30 @@
+{
+  "name": "project-final-project-backend",
+  "version": "1.0.0",
+  "description": "Starter project to get up and running with express quickly",
+  "type": "module",
+  "scripts": {
+    "start": "babel-node server.js",
+    "dev": "nodemon server.js --exec babel-node",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.8",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "mongoose": "^5.13.14",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.2.1"
+  }
+}
