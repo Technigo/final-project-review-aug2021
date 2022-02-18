@@ -1,0 +1,7 @@
+{
+  "name": "final-project-maria-ida",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "npm install --prefix backend"
+  }
+}

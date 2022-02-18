@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "läskigt",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644312855/storyimg/ych49boam7ilsr0aagyn.jpg"
+  },
+  {
+    "id": 2,
+    "name": "roligt",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644312886/storyimg/pvbxz7unmacvj6w9ixbl.jpg"
+  },
+  {
+    "id": 3,
+    "name": "spännande",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644312970/storyimg/kxodh7xrltgwm6c2bmji.jpg"
+  },
+  {
+    "id": 4,
+    "name": "konstigt",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644312994/storyimg/xb8z8hazrezwkz0r7csg.jpg"
+  },
+  {
+    "id": 5,
+    "name": "knasigt",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313023/storyimg/hsb62prsx1z3f5i8nhqr.jpg"
+  }
+]

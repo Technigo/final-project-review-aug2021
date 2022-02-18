@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "ekorre",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313064/storyimg/vihnn1zsfp8vhsiui1kd.jpg"
+  },
+  {
+    "id": 2,
+    "name": "velociraptor",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313088/storyimg/z32as2vm6gx3aufsovod.jpg"
+  },
+  {
+    "id": 3,
+    "name": "drake",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313108/storyimg/twe0nngeqzpxu3lkdbpi.jpg"
+  },
+  {
+    "id": 4,
+    "name": "kattunge",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313154/storyimg/qevwtwme5kww5iwk2ehu.jpg"
+  },
+  {
+    "id": 5,
+    "name": "llama",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313295/storyimg/gjzko5iap8qhxbpchode.jpg"
+  },
+  {
+    "id": 6,
+    "name": "jordgubbe",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313187/storyimg/kk5miv6ozhmyepsttkwc.jpg"
+  },
+  {
+    "id": 7,
+    "name": "baby",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313214/storyimg/omajgf5jhc5xdxjuprl7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "blomma",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644313235/storyimg/iwnul27pnms58rlpjdno.jpg"
+  }
+]

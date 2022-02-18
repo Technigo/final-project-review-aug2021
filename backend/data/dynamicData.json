@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "label": "character",
+    "list": ["Enhörningen", "Dinosaurien", "Hajen", "Monstret", "Bajskorven"],
+    "image": []
+  },
+  {
+    "id": 2,
+    "label": "sound",
+    "list": ["BRAK", "BOING", "VRÅÅÅL", "FNISS", "PRUTTLJUD"]
+  },
+  {
+    "id": 3,
+    "label": "tools",
+    "list": [
+      "en osthyvel",
+      "en stege",
+      "ett kylskåp",
+      "ett par vingar",
+      "ett förstoringsglas",
+      "ett par skridskor"
+    ]
+  },
+  {
+    "id": 4,
+    "label": "place",
+    "list": [
+      "på ett moln",
+      "i en lyftkran",
+      "i en helikopter",
+      "högst upp i en tornado"
+    ]
+  },
+  {
+    "id": 5,
+    "label": "friend",
+    "list": ["ekorre", "velociraptor", "drake", "kattunge", "jätte"]
+  },
+  {
+    "id": 6,
+    "label": "friendName",
+    "list": ["Ebba", "Sixten", "Bruno", "Ingenting", "Korven"]
+  }
+]

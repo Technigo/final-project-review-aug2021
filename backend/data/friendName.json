@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Ebba",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562263/storyimg/axs6jerut9vzadm7prqg.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sixten",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562263/storyimg/axs6jerut9vzadm7prqg.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Korven",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562263/storyimg/axs6jerut9vzadm7prqg.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ingenting",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562263/storyimg/axs6jerut9vzadm7prqg.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pinnen",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562263/storyimg/axs6jerut9vzadm7prqg.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bruno",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562263/storyimg/axs6jerut9vzadm7prqg.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mattias",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562263/storyimg/axs6jerut9vzadm7prqg.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Maria",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562263/storyimg/axs6jerut9vzadm7prqg.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Marko",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562263/storyimg/axs6jerut9vzadm7prqg.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ida",
+    "image": "https://res.cloudinary.com/cloudinary-story/image/upload/v1644562263/storyimg/axs6jerut9vzadm7prqg.jpg"
+  }
+]
