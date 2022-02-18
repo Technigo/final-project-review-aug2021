@@ -1,0 +1,76 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  background: var(--background);
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+  font-family: Raleway, Open-Sans, Roboto, Helvetica, Sans-Serif;
+}
+
+:root {
+  --background: #ffffff;
+  --level-one: #ffffff;
+  --level-two: #ffffff;
+  --level-three: #ffffff;
+  --text-primary: #1a1a1a;
+  --text-secondary: #868686;
+  --button-text: #1a1a1a;
+  --accent-green: #8cc173;
+  --accent-yellow: #e1ad01;
+  --box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+  --grey-100: #dedede;
+  --grey-200: #cecece;
+  --grey-300: #adadad;
+  --grey-400: #868686;
+  --grey-500: #494949;
+  --grey-600: #333333;
+  --habit-card: #f8f8f8;
+  --progress-background: #dedede;
+  --closebuttonhover: #dedede;
+  --openbuttonhover: #dedede;
+  --radiobutton: #dedede;
+  --habit-line: #dedede;
+  --footer: #f8f8f880;
+  --checkbox: #dedede;
+  --error: #9f000a;
+}
+
+[data-theme='dark'] {
+  --background: #121212;
+  --level-one: #222222;
+  --level-two: #272727;
+  --level-three: #2c2c2c;
+  --text-primary: #dedede;
+  --text-secondary: #999999;
+  --button-text: #1a1a1a;
+  --accent-green: #679c4e;
+  --accent-yellow: #e1ad01;
+  --box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+  --grey-100: #dedede;
+  --grey-200: #cecece;
+  --grey-300: #adadad;
+  --grey-400: #868686;
+  --grey-500: #494949;
+  --grey-600: #333333;
+  --habit-card: #1a1a1a;
+  --todo-card: #292929;
+  --progress-background: #444444;
+  --closebuttonhover: #444444;
+  --openbuttonhover: #444444;
+  --radiobutton: #2c2c2c;
+  --habit-line: #363636;
+  --footer: #1a1a1a80;
+  --checkbox: #707070;
+  --error: #ff594f;
+}
+
+@media (max-width: 767px) {
+  .global-class-name {
+    width: 32px;
+    height: 32px;
+  }
+}
